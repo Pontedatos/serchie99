@@ -1,4 +1,4 @@
-# practica-3-introduccion
+# Práctica-3-introduccion
 
 Con esta práctica lo que hemos tratado de conseguir es aprender nuevos lenguajes de programación con Python. 
 Para ello hemos utilizado herramientas como *folium* para crear mapas interactivos o varias funciones de Pandas para la creación de tablas y graficas.
