@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Asignatura: Periodismo de datos 
 
-You can use the [editor on GitHub](https://github.com/Pontedatos/serchie99/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mi nombre es Sergio Real Rivas, alumno del doble grado de periodismo y humanidades, perteneciente a la Universidad Carlos III de Madrid.
+Este repositorio contiene las prácticas que se han ido realizando a lo largo del cuatrimestre, en esta asignatura, periodismo de datos. Junto con estas prácticas también podrás encontrar un archivo llamado "Resumen" con todo lo aprendido en clase y los procesos que hemos seguido; y un archivo llamado "Metodología" que contiene la metodología empleada.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Práctica 1
 
-### Markdown
+Para la primera práctica del curso lo que tuvimos que hacer fue crear y comentar dos noticias distintas: una a nuestra libre elección y otra procedente de TRESCA. 
+- [Práctica 1 - Libre](practica-1-libre.md)
+- [Práctica 1 - Tresca](practica-1-tresca.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Práctica 2
 
-```markdown
-Syntax highlighted code block
+En la segunda práctica lo que tuvimos que hacer fue crear un artículo a raíz de una noticia que nosotros eligiésemos. La única condición que había era que esa noticia debía incluir una gráfica y por tanto, debíamos comentarla. En mi caso decidí escoger una noticia procedente de [Newtral](https://www.newtral.es/aumento-precio-gasolina/20220309/), que hablaba sobre el precio de los carburantes a raíz de la guerra en Ucrania.
+- [Practica 2](practica-2.md)
 
-# Header 1
-## Header 2
-### Header 3
+## Práctica 3
 
-- Bulleted
-- List
+Para la tercera práctica era necesario conocer y saber utilizar Jupyter: la tarea se basaba en crear nuestros propios apuntes. Teníamos que completar unos notebooks y luego comentar que íbamos haciendo para no perdernos. Ambos archivos debían estar subidos en dos formatos diferentes, concretamente en html y en ipynb.
+- [Práctica 3](practica-3.md)
+- [Mapa Zaragoza en ipybn](api-pandas-folium.ipynb)
+- [Mapa Zaragoza en html](api-pandas-folium.html)
+- [API-COVID-19 en ipynb](python-api-covid19-pandas.ipynb)
+- [API-COVID-19 en html](python-api-covid19-pandas.html)
 
-1. Numbered
-2. List
+## Resumen y Metodología
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pontedatos/serchie99/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Los archivos que encontrarás más abajo se corresponden con el resumen explicando todos las cuestiones más importantes del curso y otro archivo en el que se habla de la metodología empleada
+- [Metodología](Metodologia.md)
+- [Resumen](Resumen.md)
