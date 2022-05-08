@@ -6,15 +6,25 @@ Este repositorio contiene las prácticas que se han ido realizando a lo largo de
 ## Práctica 1
 
 Para la primera práctica del curso lo que tuvimos que hacer fue crear y comentar dos noticias distintas: una a nuestra libre elección y otra procedente de TRESCA. 
+- [Práctica 1 - Libre](practica-1-libre.md)
+- [Práctica 1 - Tresca](practica-1-tresca.md)
 
 ## Práctica 2
 
 En la segunda práctica lo que tuvimos que hacer fue crear un artículo a raíz de una noticia que nosotros eligiésemos. La única condición que había era que esa noticia debía incluir una gráfica y por tanto, debíamos comentarla. En mi caso decidí escoger una noticia procedente de [Newtral](https://www.newtral.es/aumento-precio-gasolina/20220309/), que hablaba sobre el precio de los carburantes a raíz de la guerra en Ucrania.
+- [Practica 2](practica-2.md)
 
 ## Práctica 3
 
+- [Práctica 3](practica-3.md)
+- [Mapa Zaragoza en ipybn](api-pandas-folium.ipynb)
+- [Mapa Zaragoza en html](api-pandas-folium.html)
+- [API-COVID-19 en ipynb](python-api-covid19-pandas.ipynb)
+- [API-COVID-19 en html](python-api-covid19-pandas.html)
 Para la tercera práctica era necesario conocer y saber utilizar Jupyter: la tarea se basaba en crear nuestros propios apuntes. Teníamos que completar unos notebooks y luego comentar que íbamos haciendo para no perdernos. Ambos archivos debían estar subidos en dos formatos diferentes, concretamente en html y en ipynb.
 
 ## Resumen y Metodología
 
 Los archivos que encontrarás más abajo se corresponden con el resumen explicando todos las cuestiones más importantes del curso y otro archivo en el que se habla de la metodología empleada
+- [Metodología](Metodologia.md)
+- [Resumen](Resumen.md)
