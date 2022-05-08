@@ -16,12 +16,12 @@ En la segunda práctica lo que tuvimos que hacer fue crear un artículo a raíz 
 
 ## Práctica 3
 
+Para la tercera práctica era necesario conocer y saber utilizar Jupyter: la tarea se basaba en crear nuestros propios apuntes. Teníamos que completar unos notebooks y luego comentar que íbamos haciendo para no perdernos. Ambos archivos debían estar subidos en dos formatos diferentes, concretamente en html y en ipynb.
 - [Práctica 3](practica-3.md)
 - [Mapa Zaragoza en ipybn](api-pandas-folium.ipynb)
 - [Mapa Zaragoza en html](api-pandas-folium.html)
 - [API-COVID-19 en ipynb](python-api-covid19-pandas.ipynb)
 - [API-COVID-19 en html](python-api-covid19-pandas.html)
-Para la tercera práctica era necesario conocer y saber utilizar Jupyter: la tarea se basaba en crear nuestros propios apuntes. Teníamos que completar unos notebooks y luego comentar que íbamos haciendo para no perdernos. Ambos archivos debían estar subidos en dos formatos diferentes, concretamente en html y en ipynb.
 
 ## Resumen y Metodología
 
