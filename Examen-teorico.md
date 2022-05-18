@@ -2,7 +2,7 @@
 
 ## Preguntas obligatorias
 
-1. Philip Meyer fue el que nombró al periodismo de datos que conocemos hoy en día como "periodismo de precisión" o "precision journalism" en inglés, concretamente fue en 1960. Desde estos momentos, surgieron surgieron una gran cantidad de terminaciones como "periodismo guiado por datos" o "periodismo de base de datos". Actualmente, conocemos como periodismo de datos el que surge entre los años 2006 y 2008.
+1. Philip Meyer fue el que nombró al periodismo de datos que conocemos hoy en día como "periodismo de precisión" o "precision journalism" en inglés, concretamente fue en 1960. Desde estos momentos, surgieron una gran cantidad de terminaciones como "periodismo guiado por datos" o "periodismo de base de datos". Actualmente, conocemos como periodismo de datos el que surge entre los años 2006 y 2008.
 
 2. Florence Nightingale fue una enfermera italiana procedente del siglo XIX, que aportó muchas técnicas de estadística al estudio de las patologías y en el conteo de personas enfermas, siendo el más famoso "el diagrama de la rosa"
 
